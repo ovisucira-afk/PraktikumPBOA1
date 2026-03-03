@@ -1,3 +1,9 @@
+/* Nama File    : Dosen.java
+ * Deskripsi    : berisi atribut dan method dalam class Dosen
+ * Pembuat      : Ovilia Suci Ramadhani / 24060124120040
+ * Tanggal      : 2 Maret 2026
+ */
+
 public class Dosen {
     //Atribut
     private String NIP;
