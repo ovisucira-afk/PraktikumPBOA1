@@ -1,5 +1,9 @@
 /* Nama File    : MBangunDatar.java
+<<<<<<< Pertemuan4Latihan
  * Deskripsi    : berisi aplikasi method dalam class BangunDatar
+=======
+ * Deskripsi    : berisi aplikasi method dalam class MBangunDatar
+>>>>>>> local
  * Pembuat      : Ovilia Suci Ramadhani / 24060124120040
  * Tanggal      : 11 Maret 2026
  */
