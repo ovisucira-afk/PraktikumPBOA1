@@ -1,3 +1,9 @@
+/* Nama File    : BangunDatar.java
+ * Deskripsi    : berisi atribut dan method dalam class BangunDatar
+ * Pembuat      : Ovilia Suci Ramadhani / 24060124120040
+ * Tanggal      : 11 Maret 2026
+ */
+
 public class BangunDatar {
     // Atribut
     private int jmlSisi;
