@@ -1,3 +1,9 @@
+/* Nama File    : MBangunDatar.java
+ * Deskripsi    : berisi aplikasi method dalam class MBangunDatar
+ * Pembuat      : Ovilia Suci Ramadhani / 24060124120040
+ * Tanggal      : 11 Maret 2026
+ */
+
 public class MBangunDatar {
     public static void main (String[] args){
         Persegi Persegi1 = new Persegi(4, "biru", "hitam"); // membuat persegi dengan sisi = 4, warna biru, border hitam
