@@ -1,3 +1,8 @@
+/* Nama File    : Teman.java
+ * Deskripsi    : Berisi atribut dan method dalam class Teman
+ * Pembuat      : Ovilia Suci Ramadhani / 24060124120040
+ * Tanggal      : 10 Mei 2026 */
+
 import java.util.ArrayList;
 import java.util.List;
 
